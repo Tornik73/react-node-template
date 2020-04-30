@@ -1,0 +1,9 @@
+.chat__list {
+    border-right: 1px solid #eee;
+    flex-basis: 200px;
+    overflow: auto;
+}
+
+.chat__title {
+    margin-left: 5px;
+}

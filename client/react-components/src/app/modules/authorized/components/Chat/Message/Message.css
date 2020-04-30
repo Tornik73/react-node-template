@@ -1,0 +1,21 @@
+.message{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    max-width: 500px;
+}
+.message .message__sender-icon {
+    width: 30px;
+}
+.message .message__bubble {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.message .message__sender-name {
+    font-weight: bold;
+}
+.message-content span {
+    max-width: 500px;
+}

@@ -1,0 +1,26 @@
+/*
+REQUIREMENTS:
+  z-indexes:
+    loaders: < 9999;
+    modals: < 8999;
+    headers: < 7999;
+*/
+
+body {
+ background: #f2f3f8;
+}
+
+.container__loader {
+ height: 100%;
+ width: 100%;
+ background: rgba(88, 102, 110, 0.2);
+ z-index: 9999;
+ position: absolute;
+}
+
+.container__loader>div {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
