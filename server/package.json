@@ -24,7 +24,7 @@
     "@types/uuid": "^7.0.2",
     "@types/ws": "^7.2.4",
     "await-to-js": "^2.1.1",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "core-util-is": "^1.0.2",
     "cors": "^2.8.4",
