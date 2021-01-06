@@ -20,7 +20,7 @@
     "@types/react-table": "^7.0.14",
     "@types/socket.io-client": "^1.4.32",
     "@types/styled-components": "^5.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eslint-plugin-react-hooks": "^3.0.0",
     "formik": "^2.1.4",
     "history": "^4.10.1",
